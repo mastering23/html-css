@@ -1,0 +1,21 @@
+body{
+  background-color:lightgray;
+}
+
+h1{
+  color:blue;
+}
+
+img{
+
+  width: 200px;
+  height: 200px;
+}
+
+h2{
+  background-color: dodgerblue;
+}
+
+li{
+  font-size: 25px;
+}
